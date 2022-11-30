@@ -20,12 +20,6 @@ the house was built, the size of the house, and whether the house has a sea view
 
 * [Install python](https://www.python.org/downloads/)
 * Run programm on any python IDE
-
-```
-poly.ipynb
-poly.py
-real_estate_price_size_year_view.csv
-```
     
 ## Authors
 
